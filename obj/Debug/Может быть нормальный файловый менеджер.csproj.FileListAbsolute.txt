@@ -1,0 +1,12 @@
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\bin\Debug\Может быть нормальный файловый менеджер.exe.config
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\bin\Debug\Может быть нормальный файловый менеджер.exe
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\bin\Debug\Может быть нормальный файловый менеджер.pdb
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\bin\Debug\MetroFramework.dll
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.csprojAssemblyReference.cache
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может_быть_нормальный_файловый_менеджер.Form1.resources
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может_быть_нормальный_файловый_менеджер.Properties.Resources.resources
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.csproj.GenerateResource.cache
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.csproj.CopyComplete
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.exe
+C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.pdb
