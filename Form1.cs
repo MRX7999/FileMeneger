@@ -24,6 +24,9 @@ namespace Может_быть_нормальный_файловый_менедж
         {
             MetroStyleManager metroStyleManager1 = null; //Оживляем графений, если вылезает ошибка удалить и вставить за ного эти две строки
             this.StyleManager = metroStyleManager1;
+            notifyIcon1.BalloonTipTitle = "File Menedger Power by AnRub"; // отображение для уведоблений
+            notifyIcon1.BalloonTipText = "File Menedger has been worked..."; // отображение для уведоблений
+            notifyIcon1.Text = "Virus Detected"; // отображение для уведоблений
         }
 
 
@@ -102,6 +105,43 @@ namespace Может_быть_нормальный_файловый_менедж
                 listBox1.Items.Add(ssFile); // вывод
             }
 
+        }
+
+
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e) // Добавляем видимость отрицательную при открытом окне проги
+        {
+            this.Show();
+            notifyIcon1.Visible = false;
+            WindowState = FormWindowState.Normal;
+        }
+
+        private void Form1_Resize(object sender, EventArgs e) // добавляем положительную видимость на 1 сек. или ее отсутсвие в скрытом состоянии. 
+        {
+            if (WindowState == FormWindowState.Minimized)
+            {
+                this.Hide();
+                notifyIcon1.Visible = true;
+                notifyIcon1.ShowBalloonTip(1000);
+            }
+            else if (FormWindowState.Normal == this.WindowState)
+            {
+                notifyIcon1.Visible = false;
+            }
+        }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void закрытьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close(); // зарывает окно
+        }
+
+        private void открытьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Show();  // открывает окно
         }
     }
 }

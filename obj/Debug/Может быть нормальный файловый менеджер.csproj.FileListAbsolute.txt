@@ -10,3 +10,15 @@ C:\Users\andrey\source\repos\Может быть нормальный файло
 C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.csproj.CopyComplete
 C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.exe
 C:\Users\andrey\source\repos\Может быть нормальный файловый менеджер\obj\Debug\Может быть нормальный файловый менеджер.pdb
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\bin\Debug\Может быть нормальный файловый менеджер.exe.config
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\bin\Debug\Может быть нормальный файловый менеджер.exe
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\bin\Debug\Может быть нормальный файловый менеджер.pdb
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\bin\Debug\MetroFramework.dll
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может быть нормальный файловый менеджер.csprojAssemblyReference.cache
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может_быть_нормальный_файловый_менеджер.Form1.resources
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может_быть_нормальный_файловый_менеджер.Properties.Resources.resources
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может быть нормальный файловый менеджер.csproj.GenerateResource.cache
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может быть нормальный файловый менеджер.csproj.CopyComplete
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может быть нормальный файловый менеджер.exe
+C:\Users\andrey\Desktop\Файловый мнеджер\FileMeneger\obj\Debug\Может быть нормальный файловый менеджер.pdb
